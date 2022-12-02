@@ -1,0 +1,54 @@
+[
+    {
+    "firstname": "Christian Lloyd",
+    "lastname" : "Chavez",
+    "age" : 22,
+    "address" : "San Miguel, Jordan, Guimaras",
+    "contact number": "09612081434" 
+
+    },
+
+    {
+        "FRIEND-LIST": "Top 3",
+
+
+        "name": "Diane Angelique Torres",
+        "age" : 21,
+        "address" : 
+        {
+            "place" : "Jaro",
+            "city" : "Iloilo",
+            "country" : "Philippines"
+        },
+        "likes" : "Sweet foods and kpop",
+        "dislikes" : "Veggies",
+        "feeling" : "Sleepy"
+
+    },
+
+    {
+        "name":"Rencel Grace Uytoco",
+        "age":21,
+        "address":"Iloilo City, Philippines",
+        "likes" : "foods, beaches",
+        "dislikes":"none",
+        "feeling": "Hyper"
+    },
+
+    {
+        "name":"CJ Marbebe",
+        "age":22,
+        "address":{
+            "district":"District 1, Alimodian Iloilo",
+            "city":"Iloilo Province",
+            "country":"Philippines" 
+        },
+        "likes":"drinking",
+        "dislikes": "fake friends",
+        "feeling" : "mixed emotions"
+
+
+        
+        
+    }
+]
